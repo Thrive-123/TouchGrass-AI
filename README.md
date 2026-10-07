@@ -24,7 +24,19 @@ The goal is simple: use AI to help people spend **less time on screens and more 
 - 🔒 AI runs locally through Ollama
 
 ---
+## 📸 Screenshots
 
+### 🏠 User Input
+
+![TouchGrass AI Home](screenshots/home.png)
+
+### 🌳 Generated Outdoor Plan
+
+![Generated Outdoor Plan](screenshots/generated-plan.png)
+
+### 📵 Screen-Free Challenge
+
+![Screen-Free Challenge](screenshots/challenge.png)
 ## 🤖 How AI Is Used
 
 TouchGrass AI uses **Gemma 3 (1B)** as the core AI model.
