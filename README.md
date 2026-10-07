@@ -28,15 +28,15 @@ The goal is simple: use AI to help people spend **less time on screens and more 
 
 ### 🏠 User Input
 
-![TouchGrass AI Home](screenshots/home.png)
+<img src="./screenshots/home.png" alt="TouchGrass AI Home" width="700">
 
 ### 🌳 Generated Outdoor Plan
 
-![Generated Outdoor Plan](screenshots/generated-plan.png)
+<img src="./screenshots/generated-plan.png" alt="Generated Outdoor Plan" width="700">
 
 ### 📵 Screen-Free Challenge
 
-![Screen-Free Challenge](screenshots/challenge.png)
+<img src="./screenshots/challenge.png" alt="Screen-Free Challenge" width="700">
 ## 🤖 How AI Is Used
 
 TouchGrass AI uses **Gemma 3 (1B)** as the core AI model.
